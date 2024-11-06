@@ -1,0 +1,1 @@
+Here are some random DoS scripts I have made and going to list here for the misc versions I have made. Will be subject to updates as I put them out. For educational use only I take no responsibility for the use or misuse of these tools.
